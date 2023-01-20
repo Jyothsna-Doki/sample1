@@ -1,0 +1,3 @@
+[submodule "sample2"]
+	path = sample2
+	url = git@github.com:Jyothsna-Doki/sample2.git
